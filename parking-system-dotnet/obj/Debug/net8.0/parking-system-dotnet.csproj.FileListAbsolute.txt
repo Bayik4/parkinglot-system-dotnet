@@ -1,0 +1,14 @@
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/bin/Debug/net8.0/parking-system-dotnet
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/bin/Debug/net8.0/parking-system-dotnet.deps.json
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/bin/Debug/net8.0/parking-system-dotnet.runtimeconfig.json
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/bin/Debug/net8.0/parking-system-dotnet.dll
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/bin/Debug/net8.0/parking-system-dotnet.pdb
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/parking-system-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/parking-system-dotnet.AssemblyInfoInputs.cache
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/parking-system-dotnet.AssemblyInfo.cs
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/parking-system-dotnet.csproj.CoreCompileInputs.cache
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/parking-system-dotnet.dll
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/refint/parking-system-dotnet.dll
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/parking-system-dotnet.pdb
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/parking-system-dotnet.genruntimeconfig.cache
+/home/enigma/dev/projects/parking-system-dotnet/parking-system-dotnet/obj/Debug/net8.0/ref/parking-system-dotnet.dll
